@@ -12,10 +12,8 @@ cd ./PSP
 python train.py --batch_size 64 --epoch 50 --lr 1e-4
 ```
 **(2) Pneumonia Classification with CRE**  
-Pretraining stage:
 ```
-cd ./CRE
-python main.py
+CRE is coming soon...
 ```
 
 ## Reference
