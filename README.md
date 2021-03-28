@@ -8,12 +8,13 @@ You might use `CUDA_VISIBLE_DEVICES` to set proper number of GPUs.
 
 **(1) PSP Pre-training**
 ```
-cd ./PSP
+cd PSP
 python train.py --batch_size 64 --epoch 50 --lr 1e-4
 ```
 **(2) Pneumonia Classification with CRE**  
 ```
-CRE is coming soon
+cd CRE
+python main_supcon.py --batch_size 4 --epoch 50 --lr 1e-4
 ```
 
 ## Reference
