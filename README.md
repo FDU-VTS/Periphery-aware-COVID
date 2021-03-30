@@ -3,7 +3,7 @@
 This repo covers a PyTorch implementation for the paper "Periphery-aware COVID-19 Diagnosis with Contrastive Representation Enhancement", using the [CC-CCII dataset](http://ncov-ai.big.ac.cn/download?lang=en) as an illustrative example.  
 
 ## Installation
-* Install Pytorch 1.1.0 and CUDA 9.0
+* Install Pytorch 1.7.1 and CUDA 10.1
 * Clone this repo
 ```
 git clone https://github.com/FDU-VTS/Periphery-aware-COVID
