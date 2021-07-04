@@ -26,5 +26,13 @@ python main_supcon.py --batch_size 4 --epoch 50 --lr 1e-4
 
 ## Reference
 ```
-
+@article{2021Periphery,
+  title={Periphery-aware COVID-19 Diagnosis with Contrastive Representation Enhancement},
+  author={ Hou, J.  and  Xu, J.  and  Jiang, L.  and  Du, S.  and  Xue, X. },
+  journal={Pattern Recognition},
+  volume={118},
+  number={2},
+  pages={108005},
+  year={2021},
+}
 ```
